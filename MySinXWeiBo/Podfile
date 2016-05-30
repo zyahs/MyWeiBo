@@ -1,0 +1,11 @@
+
+platform :ios, '8.0'
+
+use_frameworks!
+
+pod 'SnapKit', '~> 0.18.0'
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'SDWebImage'
+
+
